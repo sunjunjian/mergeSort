@@ -1,0 +1,2 @@
+rm mergeSort mergeSort.o
+make
